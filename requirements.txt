@@ -1,0 +1,11 @@
+# ProcShark Dependencies
+# Install with: pip install -r requirements.txt
+
+# Packet capture for Windows (WinDivert wrapper)
+pydivert>=2.1.0
+
+# Process and system utilities
+psutil>=5.9.0
+
+# Rich terminal UI
+rich>=13.0.0
